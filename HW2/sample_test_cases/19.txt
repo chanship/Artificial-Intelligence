@@ -1,0 +1,13 @@
+3
+5
+Russia
+France
+Iran
+Japan
+South Korea,Brazil
+AFC:Iran,Japan,South Korea
+CAF:None
+CONCACAF:None
+CONMEBOL:Brazil
+UEFA:Russia,France
+OFC:None

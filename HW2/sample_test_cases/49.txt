@@ -1,0 +1,10 @@
+19
+2
+Denmark,Mexico,Russia,France,Germany,Fiji,Tahiti,New Zealand,South Korea,Greece,Algeria,Egypt,Iran,China,Saudi Arabia,Ecuador,Haiti
+United States
+AFC:Iran,South Korea,China,Saudi Arabia
+CAF:Algeria,Egypt
+CONCACAF:Haiti,United States,Mexico
+CONMEBOL:Ecuador
+UEFA:Russia,France,Germany,Greece,Denmark
+OFC:Fiji,Tahiti,New Zealand

@@ -1,0 +1,12 @@
+4
+4
+Italy,Russia,Germany
+South Korea,Greece
+China,Saudi Arabia
+Ecuador,New Zealand,Haiti
+AFC:South Korea,China,Saudi Arabia
+CAF:None
+CONCACAF:Haiti
+CONMEBOL:Ecuador
+UEFA:Italy,Russia,Germany,Greece
+OFC:New Zealand

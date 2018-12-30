@@ -1,0 +1,15 @@
+8
+7
+Iran,Australia,Fiji,Russia,Jordan,Qatar
+Germany,Spain,Peru,Switzerland,Denmark,Colombia,Mexico
+Iceland,Costa Rica,Sweden,Tunisia,Egypt,Senegal
+Japan,Chile,Serbia,Nigeria,Italy,England,Netherlands,Czech Republic
+Brazil,Portugal,Argentina,Belgium,Poland,France
+Panama,South Korea,Uruguay,Morocco
+USA,Saudi Arabia
+AFC:South Korea,Saudi Arabia,Japan,Australia,Iran,Jordan,Qatar
+CAF:Tunisia,Egypt,Senegal,Morocco,Nigeria
+CONCACAF:Mexico,Panama,Costa Rica,USA
+CONMEBOL:Brazil,Argentina,Uruguay,Colombia,Peru,Chile
+UEFA:France,Germany,England,Russia,Portugal,Belgium,Poland,Switzerland,Denmark,Iceland,Serbia,Spain,Sweden,Italy,Netherlands,Czech Republic
+OFC:Fiji

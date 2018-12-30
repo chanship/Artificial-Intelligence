@@ -1,0 +1,11 @@
+7
+3
+Germany,Netherlands,Russia,Denmark,Finland,Turkey,England,Japan
+Austria,Greece,Italy,Armenia
+Portugal
+AFC:Japan
+CAF:None
+CONCACAF:None
+CONMEBOL:None
+UEFA:Germany,Netherlands,Denmark,Finland,Turkey,England,Austria,Greece,Russia,Italy,Armenia,Portugal
+OFC:None

@@ -1,0 +1,12 @@
+10
+4
+Mexico,Russia,Germany,South Korea,China,Ecuador,Tonga
+Bahrain,Philippines,Thailand,Macau,Hong Kong,India,United Arab Emirates
+Jordan,Algeria,Angola,Zimbabwe,Cameroon,Mali,Ghana,Sudan
+Ivory Coast,France,Italy,Denmark,Scotland,Belarus,Azerbaijan,England
+AFC:South Korea,China,Bahrain,Philippines,Thailand,Macau,Hong Kong,India,United Arab Emirates,Jordan
+CAF:Algeria,Angola,Zimbabwe,Cameroon,Mali,Ghana,Sudan,Ivory Coast
+CONCACAF:Mexico
+CONMEBOL:Ecuador
+UEFA:France,Germany,Italy,Denmark,Scotland,Russia,Belarus,Azerbaijan,England
+OFC:Tonga

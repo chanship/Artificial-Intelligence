@@ -1,0 +1,9 @@
+7
+1
+Mexico,Russia,Germany,South Korea,China,Ecuador,Tonga
+AFC:South Korea,China
+CAF:None
+CONCACAF:Mexico
+CONMEBOL:Ecuador
+UEFA:Russia,Germany
+OFC:Tonga

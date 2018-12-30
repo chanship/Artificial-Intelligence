@@ -1,0 +1,11 @@
+Yes
+France,Bahrain,Mali,Mexico
+Ivory Coast,Russia,United Arab Emirates
+Germany,Ghana,Philippines
+Scotland,Angola,South Korea
+Belarus,Algeria,China
+Sudan,Ecuador,Macau,Azerbaijan
+Italy,Cameroon,Tonga,India
+Thailand,Zimbabwe
+Jordan,England
+Hong Kong,Denmark

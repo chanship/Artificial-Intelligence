@@ -1,0 +1,10 @@
+3
+2
+Russia,Brazil,Italy
+Denmark,Japan,Sudan
+AFC:Japan
+CAF:Sudan
+CONCACAF:None
+CONMEBOL:Brazil
+UEFA:Italy,Russia,Denmark
+OFC:None

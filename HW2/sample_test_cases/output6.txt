@@ -1,0 +1,6 @@
+Yes
+Mexico,Greece,Ecuador
+Russia,United States,China
+France,Fiji
+Saudi Arabia,Germany,Haiti
+South Korea,New Zealand

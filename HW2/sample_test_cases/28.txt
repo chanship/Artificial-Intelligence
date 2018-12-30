@@ -1,0 +1,10 @@
+15
+2
+Italy,France,Germany,Japan,East Timor,South Korea,Russia,Yemen,Jordan,Lebanon
+China,Saudi Arabia,Maldives,Pakistan,Ecuador,Haiti,Indonesia,Turkmenistan,India,Kyrgyzstan
+AFC:South Korea,China,Saudi Arabia,Japan,Indonesia,Turkmenistan,India,Kyrgyzstan,Maldives,Yemen,Jordan,Pakistan,Lebanon,East Timor
+CAF:None
+CONCACAF:Haiti
+CONMEBOL:Ecuador
+UEFA:Italy,France,Germany,Russia
+OFC:None

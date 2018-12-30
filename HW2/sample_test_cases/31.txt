@@ -1,0 +1,10 @@
+6
+2
+Brazil,Peru,Ecuador,Russia
+Japan,Iran,Nepal,Tajikistan,Saudi Arabia
+AFC:Saudi Arabia,Japan,Iran,Nepal,Tajikistan
+CAF:None
+CONCACAF:None
+CONMEBOL:Brazil,Peru,Ecuador
+UEFA:Russia
+OFC:None

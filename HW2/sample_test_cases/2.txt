@@ -1,0 +1,11 @@
+3
+3
+Russia
+Peru
+Ecuador,Saudi Arabia,Brazil
+AFC:Saudi Arabia
+CAF:None
+CONCACAF:None
+CONMEBOL:Brazil,Peru,Ecuador
+UEFA:Russia
+OFC:None

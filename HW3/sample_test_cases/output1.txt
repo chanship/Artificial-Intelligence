@@ -1,0 +1,5 @@
+Run Right,Walk Right,Exit,Walk Left,Run Left,Run Left
+Walk Up,None,Walk Up,Walk Up,Walk Up,Walk Left
+Run Up,Walk Right,Run Up,Run Up,Exit,Walk Left
+Run Up,Walk Up,Run Up,Walk Up,Walk Up,Walk Up
+Run Up,Run Up,Run Up,None,Run Up,Walk Left
